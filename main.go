@@ -124,8 +124,8 @@ func OutputTickets(output string, tickets []Ticket) {
 }
 
 func main() {
-	input := ``
-	output := ""
+	input := `C:\Users\sc_counter\Iowa State University\Solution Center - Documents\Metrics\Data\Solution Center Metrics.csv`
+	output := "C:\\Users\\sc_counter\\Iowa State University\\Solution Center - Documents\\Metrics\\Sorted Data\\"
 
 	// header
 	fmt.Println("Solution Center Metrics Daemon")
